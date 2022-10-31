@@ -22,7 +22,7 @@ setup(
     long_description = open('README.rst').read() + '\n\n' + open('HISTORY.rst').read(),
     author='Alexey Kachayev',
     author_email='kachayev@gmail.com',
-    url='https://github.com/kachayev/fn.py',
+    url='https://github.com/santomon/fn.py',
     packages=['fn', 'fn.immutable'],
     package_data={'': ['LICENSE', 'README.rst', 'HISTORY.rst']},
     include_package_data=True,
